@@ -39,7 +39,8 @@ def decrement():
 ```
 
 Create an HTML file to use your component:
-```markup
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
