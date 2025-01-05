@@ -4,7 +4,11 @@ count = $state(0)
 def increment():
     count += 1
 
+def decrement():
+    count -= 1
+
 </script>
 
-<h2>The count is {count}</h2>
 <button onclick={increment}>Increment</button>
+<h2>The count is {count}</h2>
+<button onclick={decrement}>Decrement</button>
