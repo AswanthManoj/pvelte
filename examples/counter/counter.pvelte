@@ -1,0 +1,10 @@
+<script lang="py">
+count = $state(0)
+
+def increment():
+    count += 1
+
+</script>
+
+<h2>The count is {count}</h2>
+<button onclick={increment}>Increment</button>

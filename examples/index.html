@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pvelte Counter Demo</title>
+</head>
+<body>
+    <h1>Pvelte Counter Demo</h1>
+    <div id="app"></div>
+
+    <!-- Runtime needs to be loaded before components -->
+    <script src="../src/runtime/runtime.js"></script>
+    <!-- Generated component code -->
+    <script src="counter/output/counter.js"></script>
+    
+    <script>
+        // Initialize and mount the component
+        const app = Counter();
+        app.mount(document.getElementById('app'));
+    </script>
+</body>
+</html>
