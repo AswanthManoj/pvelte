@@ -13,7 +13,7 @@ Pvelte is an experimental web application framework that combines Python with Sv
 
 # Installation
 
-- Clone the repo `git clone https://github.com/yourusername/pvelte.git` 
+- Clone the repo `git clone https://github.com/AswanthManoj/pvelte.git` 
 - `cd pvelte`
 - Install astral UV `pip install uv`
 - Install dependencies `uv sync`
