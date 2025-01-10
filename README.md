@@ -93,6 +93,10 @@ This is an experimental framework in early development. Currently supports:
 - Basic templating features only
 
 
+# Future Developments
+Note: All future developments will be done in project [`FluidSvelte`](https://github.com/AswanthManoj/FluidSvelte) which will be part of [FluidFrame](https://github.com/Fluidframe/FluidFrame) experimental section.
+
+
 # Acknowledgments
 
 - Inspired by Svelte and particularly Svelte 5's runes
